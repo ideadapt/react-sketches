@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "sourceMap": false
+  },
+  "filesGlob": [
+    "app/**/*.tsx",
+    "typings/*.d.ts"
+  ],
+  "files": [
+    "app/component.tsx",
+    "app/main.tsx",
+    "typings/tsd.d.ts"
+  ],
+  "exclude": []
+}
